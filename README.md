@@ -1,4 +1,4 @@
-# Coletor-de-links
+# 🔗 WhatsApp Link Collector → Telegram Bot (Python)
 
 Um coletor automático de links do WhatsApp desenvolvido em Python, projetado para monitorar mensagens, extrair links e enviá-los diretamente para um canal, grupo ou bot no Telegram.
 
