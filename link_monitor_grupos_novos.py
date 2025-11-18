@@ -13,8 +13,7 @@ ARQUIVO_LINKS = "grupos_enviados.txt"
 # 📋 LISTA DE PÁGINAS PARA MONITORAR
 # ═══════════════════════════════════════════════════════════════
 PAGINAS = [
-    ("https://brunolucarelli.com.br/confirmar-inscricao-black/", "BLACK MATADOR"),
-("https://sndflw.com/i/blackoutsiderschool", "Black Pass"),
+    
     
 ]
 
