@@ -12,10 +12,7 @@ ARQUIVO_LINKS = "grupos_enviados.txt"
 # ═══════════════════════════════════════════════════════════════
 # 📋 LISTA DE PÁGINAS PARA MONITORAR
 # ═══════════════════════════════════════════════════════════════
-PAGINAS = [
-    
-    
-]
+PAGINAS = [ "para adicionar as paginas" ]
 
 # ═══════════════════════════════════════════════════════════════
 # 🔧 FUNÇÕES PRINCIPAIS
