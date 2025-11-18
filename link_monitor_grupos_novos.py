@@ -13,9 +13,7 @@ ARQUIVO_LINKS = "grupos_enviados.txt"
 # 📋 LISTA DE PÁGINAS PARA MONITORAR
 # ═══════════════════════════════════════════════════════════════
 PAGINAS = [
-    ("https://sndflw.com/i/5ISgEsCkPwfn1CWl8iye?utm_source=trafego-frio&utm_medium=00_%5BIG%5D_%5BCSM%5D_Captura_%5B030D_%2B_Checkout_%2B_Pag_vendas_180D&utm_campaign=csm1025l&utm_content=001_IMG_A_maior&utm_term=Instagram_Stories&utm_id=120232979337740780", "JHOM JHOM"),
-("https://sndflw.com/i/eDaMch9TGpV3fy5IgiwK", "EXCEL JHON"),
-("https://brunolucarelli.com.br/confirmar-inscricao-black/", "BLACK MATADOR"),
+    ("https://brunolucarelli.com.br/confirmar-inscricao-black/", "BLACK MATADOR"),
 ("https://sndflw.com/i/blackoutsiderschool", "Black Pass"),
     
 ]
