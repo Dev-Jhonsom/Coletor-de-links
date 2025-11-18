@@ -24,6 +24,8 @@ Python
 
 Selenium / PyAutoGUI (ou o que você estiver usando)
 
+python-dotenv (para gerenciamento de variáveis de ambiente)
+
 Telegram Bot API
 
 Regex para filtragem de links
